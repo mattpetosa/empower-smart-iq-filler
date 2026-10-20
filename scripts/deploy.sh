@@ -11,11 +11,17 @@ npm test
 STAMP=$(git rev-parse --short HEAD)$([[ -n "$(git status --porcelain)" ]] && echo -dirty || true)
 TMP=$(mktemp -d)
 cp -a www/. "$TMP/"
-# mktemp -d is mode 700 and rsync -a copies that onto the webroot: open it up for nginx.
+# mktemp -d is mode 700 and cp -a carries that to the webroot: open it up for nginx.
 chmod -R u=rwX,go=rX "$TMP"
 sed -i "s#href=\"style.css\"#href=\"style.css?v=$STAMP\"#; s#src=\"js/app.js\"#src=\"js/app.js?v=$STAMP\"#" "$TMP/index.html"
-sudo mkdir -p "$WEBROOT"
-sudo rsync -a --delete "$TMP/" "$WEBROOT/"
-sudo chown -R root:root "$WEBROOT"
+# No rsync on this box: build the new tree beside the webroot, then swap it in,
+# so files removed from www/ disappear from the site too.
+sudo rm -rf "$WEBROOT.new" "$WEBROOT.old"
+sudo cp -a "$TMP" "$WEBROOT.new"
+sudo chown -R root:root "$WEBROOT.new"
+sudo chmod 755 "$WEBROOT.new"
+[[ -d "$WEBROOT" ]] && sudo mv "$WEBROOT" "$WEBROOT.old"
+sudo mv "$WEBROOT.new" "$WEBROOT"
+sudo rm -rf "$WEBROOT.old"
 rm -rf "$TMP"
 echo "deployed $STAMP to $WEBROOT"

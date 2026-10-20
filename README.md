@@ -7,7 +7,7 @@ drop the system files in any order, review every proposed value — each one
 shows which file it came from, and anything that changes a value already in
 your PDF is highlighted — then download the filled, still-editable PDF.
 
-Coming soon at **https://iq.mhpwebserver.com**.
+Live at **https://iq.mhpwebserver.com**.
 
 ## Privacy
 
