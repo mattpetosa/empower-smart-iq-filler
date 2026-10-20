@@ -1,0 +1,27 @@
+System Information report written at: 10/14/2026 03:38:58 PM
+System Name: LABSVR01
+[System Summary]
+
+Item	Value	
+OS Name	Microsoft Windows Server 2022 Standard	
+System Name	LABSVR01	
+System Manufacturer	Microsoft Corporation	
+System Model	Virtual Machine	
+System Type	x64-based PC	
+Processor	Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz, 2195 Mhz, 8 Core(s), 8 Logical Processor(s)	
+Installed Physical Memory (RAM)	32.0 GB	
+
+[Hardware Resources]
+
+[Drives]
+
+Item	Value	
+Drive	C:	
+Description	Local Fixed Disk	
+Size	126.45 GB (135,773,483,008 bytes)	
+Volume Name		
+
+Drive	E:	
+Description	Local Fixed Disk	
+Size	299.98 GB (322,099,867,648 bytes)	
+Volume Name	Empower	

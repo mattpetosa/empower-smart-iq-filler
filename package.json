@@ -1,0 +1,16 @@
+{
+  "name": "empower-smart-iq-filler",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Fill the Waters Empower Servers IQ workbook from system files, in the browser.",
+  "scripts": {
+    "test": "node --test \"tests/**/*.test.js\"",
+    "vendor": "bash scripts/vendor.sh"
+  },
+  "devDependencies": {
+    "pdf-lib": "1.17.1",
+    "pdfjs-dist": "6.2.108"
+  },
+  "license": "MIT"
+}

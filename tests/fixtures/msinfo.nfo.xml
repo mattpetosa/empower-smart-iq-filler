@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<MsInfo>
+<Metadata>
+<Version>8.0</Version>
+<CreationUTC>10/14/26 19:38:58</CreationUTC>
+</Metadata>
+<Category name="System Summary">
+<Data><Item><![CDATA[OS Name]]></Item><Value><![CDATA[Microsoft Windows Server 2022 Standard]]></Value></Data>
+<Data><Item><![CDATA[System Name]]></Item><Value><![CDATA[LABSVR01]]></Value></Data>
+<Data><Item><![CDATA[System Manufacturer]]></Item><Value><![CDATA[VMware, Inc.]]></Value></Data>
+<Data><Item><![CDATA[System Model]]></Item><Value><![CDATA[VMware7,1]]></Value></Data>
+<Data><Item><![CDATA[System Type]]></Item><Value><![CDATA[x64-based PC]]></Value></Data>
+<Data><Item><![CDATA[Processor]]></Item><Value><![CDATA[Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz, 2893 Mhz, 4 Core(s), 4 Logical Processor(s)]]></Value></Data>
+<Data><Item><![CDATA[Processor]]></Item><Value><![CDATA[Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz, 2893 Mhz, 4 Core(s), 4 Logical Processor(s)]]></Value></Data>
+<Data><Item><![CDATA[Installed Physical Memory (RAM)]]></Item><Value><![CDATA[24.0 GB]]></Value></Data>
+<Category name="Hardware Resources">
+<Category name="Conflicts/Sharing">
+<Data><Resource><![CDATA[IRQ 1]]></Resource><Device><![CDATA[Keyboard]]></Device></Data>
+</Category>
+</Category>
+<Category name="Components">
+<Category name="Storage">
+<Category name="Drives">
+<Data><Item><![CDATA[Drive]]></Item><Value><![CDATA[C:]]></Value></Data>
+<Data><Item><![CDATA[Description]]></Item><Value><![CDATA[Local Fixed Disk]]></Value></Data>
+<Data><Item><![CDATA[Size]]></Item><Value><![CDATA[149.88 GB (160,936,488,960 bytes)]]></Value></Data>
+<Data><Item><![CDATA[Volume Name]]></Item><Value><![CDATA[OS]]></Value></Data>
+<Data><Item><![CDATA[]]></Item><Value><![CDATA[]]></Value></Data>
+<Data><Item><![CDATA[Drive]]></Item><Value><![CDATA[D:]]></Value></Data>
+<Data><Item><![CDATA[Description]]></Item><Value><![CDATA[CD-ROM Disc]]></Value></Data>
+<Data><Item><![CDATA[Drive]]></Item><Value><![CDATA[F:]]></Value></Data>
+<Data><Item><![CDATA[Description]]></Item><Value><![CDATA[Local Fixed Disk]]></Value></Data>
+<Data><Item><![CDATA[Size]]></Item><Value><![CDATA[499.98 GB (536,852,033,536 bytes)]]></Value></Data>
+<Data><Item><![CDATA[Volume Name]]></Item><Value><![CDATA[Database]]></Value></Data>
+<Data><Item><![CDATA[Drive]]></Item><Value><![CDATA[E:]]></Value></Data>
+<Data><Item><![CDATA[Description]]></Item><Value><![CDATA[Local Fixed Disk]]></Value></Data>
+<Data><Item><![CDATA[Size]]></Item><Value><![CDATA[499.98 GB (536,852,033,536 bytes)]]></Value></Data>
+<Data><Item><![CDATA[Volume Name]]></Item><Value><![CDATA[Programs]]></Value></Data>
+<Data><Item><![CDATA[Drive]]></Item><Value><![CDATA[G:]]></Value></Data>
+<Data><Item><![CDATA[Description]]></Item><Value><![CDATA[Local Fixed Disk]]></Value></Data>
+<Data><Item><![CDATA[Size]]></Item><Value><![CDATA[499.98 GB (536,852,033,536 bytes)]]></Value></Data>
+<Data><Item><![CDATA[Volume Name]]></Item><Value><![CDATA[RawData]]></Value></Data>
+<Data><Item><![CDATA[Drive]]></Item><Value><![CDATA[H:]]></Value></Data>
+<Data><Item><![CDATA[Description]]></Item><Value><![CDATA[Local Fixed Disk]]></Value></Data>
+<Data><Item><![CDATA[Size]]></Item><Value><![CDATA[1.17 TB (1,288,490,188,800 bytes)]]></Value></Data>
+<Data><Item><![CDATA[Volume Name]]></Item><Value><![CDATA[Backup]]></Value></Data>
+<Data><Item><![CDATA[Drive]]></Item><Value><![CDATA[I:]]></Value></Data>
+<Data><Item><![CDATA[Description]]></Item><Value><![CDATA[Local Fixed Disk]]></Value></Data>
+<Data><Item><![CDATA[Size]]></Item><Value><![CDATA[29.98 GB (32,193,376,256 bytes)]]></Value></Data>
+<Data><Item><![CDATA[Volume Name]]></Item><Value><![CDATA[EmpowerSetup]]></Value></Data>
+</Category>
+</Category>
+</Category>
+</Category>
+</MsInfo>

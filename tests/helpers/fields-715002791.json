@@ -1,0 +1,1502 @@
+[
+ {
+  "name": "Name",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   175.32,
+   526.44,
+   115.68,
+   13.56
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Signature",
+  "type": "other",
+  "page": 5,
+  "rect": [
+   301.44,
+   526.44,
+   113.64,
+   13.56
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Initials",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   423.6,
+   526.44,
+   115.68,
+   13.56
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Trained and qualified to perform qualification procedures",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   175.32,
+   499.68,
+   239.76,
+   13.08
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Date",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   423.6,
+   499.68,
+   115.68,
+   13.08
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Name_2",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   175.32,
+   444.24,
+   115.68,
+   13.56
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Signature_2",
+  "type": "other",
+  "page": 5,
+  "rect": [
+   299.4,
+   444.24,
+   115.68,
+   13.56
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Initials_2",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   423.6,
+   444.24,
+   115.68,
+   13.56
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Date_2",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   423.6,
+   416.64,
+   115.68,
+   13.56
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server role or roles application database file server or Waters servicesRow1",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   317.64,
+   225.96,
+   118.92,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Installation start dateRow1",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   438.12,
+   225.96,
+   104.76,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server role or roles application database file server or Waters servicesRow2",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   317.64,
+   208.92,
+   118.92,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Installation start dateRow2",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   438.12,
+   208.92,
+   104.76,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server role or roles application database file server or Waters servicesRow3",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   317.64,
+   192,
+   118.92,
+   15.72
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Installation start dateRow3",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   438.12,
+   192,
+   104.76,
+   15.72
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server role or roles application database file server or Waters servicesRow4",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   317.64,
+   174.96,
+   118.92,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Installation start dateRow4",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   438.12,
+   174.96,
+   104.76,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Comments",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   90.79,
+   86.4,
+   455.07,
+   65.75
+  ],
+  "multiline": true
+ },
+ {
+  "name": "Trained and qualified to perform qualification procedures2",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   174.33,
+   415.94,
+   239.76,
+   13.08
+  ],
+  "multiline": false
+ },
+ {
+  "name": "1",
+  "type": "text",
+  "page": 6,
+  "rect": [
+   283.32,
+   524.04,
+   79.8,
+   18.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "2",
+  "type": "text",
+  "page": 6,
+  "rect": [
+   283.32,
+   504.6,
+   79.8,
+   18.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "3",
+  "type": "text",
+  "page": 6,
+  "rect": [
+   283.32,
+   485.04,
+   79.8,
+   18.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "1_2",
+  "type": "text",
+  "page": 6,
+  "rect": [
+   371.64,
+   524.04,
+   80.76,
+   18.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "2_2",
+  "type": "text",
+  "page": 6,
+  "rect": [
+   371.64,
+   504.6,
+   80.76,
+   18.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "3_2",
+  "type": "text",
+  "page": 6,
+  "rect": [
+   371.64,
+   485.04,
+   80.76,
+   18.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Yes No or NA 1",
+  "type": "text",
+  "page": 6,
+  "rect": [
+   460.92,
+   524.04,
+   56.88,
+   16.08
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Yes No or NA 2",
+  "type": "text",
+  "page": 6,
+  "rect": [
+   460.92,
+   504.6,
+   56.88,
+   18.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Yes No or NA 3",
+  "type": "text",
+  "page": 6,
+  "rect": [
+   460.92,
+   485.04,
+   56.88,
+   18.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server host nameRow1",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   91.08,
+   225.96,
+   111.6,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server type physical virtual or cloudbasedRow1",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   204.24,
+   225.96,
+   111.84,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Operating system and versionRow1",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   390.72,
+   463.2,
+   159.24,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server host nameRow2",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   91.08,
+   208.92,
+   111.6,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server type physical virtual or cloudbasedRow2",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   204.24,
+   208.92,
+   111.84,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Operating system and versionRow2",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   390.72,
+   446.28,
+   159.24,
+   15.72
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server host nameRow3",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   91.08,
+   192,
+   111.6,
+   15.72
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server type physical virtual or cloudbasedRow3",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   204.24,
+   192,
+   111.84,
+   15.72
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Operating system and versionRow3",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   390.72,
+   429.24,
+   159.24,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server host nameRow4",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   91.08,
+   174.96,
+   111.6,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Server type physical virtual or cloudbasedRow4",
+  "type": "text",
+  "page": 5,
+  "rect": [
+   204.24,
+   174.96,
+   111.84,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Operating system and versionRow4",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   390.72,
+   412.2,
+   159.24,
+   15.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Application server name",
+  "type": "text",
+  "page": 6,
+  "rect": [
+   217.2,
+   569.4,
+   300.6,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionManufacturer",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   192.36,
+   319.92,
+   346.68,
+   12.72
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionModel",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   192.36,
+   305.28,
+   346.68,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionProcessor",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   192.36,
+   290.64,
+   346.68,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionRAM",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   192.36,
+   276,
+   346.68,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionDisk storage type",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   192.36,
+   261.36,
+   346.68,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionOther",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   192.36,
+   246.72,
+   346.68,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Drive letterRow1",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   105.48,
+   187.68,
+   64.92,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Size GBRow1",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   171.72,
+   187.68,
+   57.24,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionRow1",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   230.4,
+   187.68,
+   308.64,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Drive letterRow2",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   105.48,
+   173.04,
+   64.92,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Size GBRow2",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   171.72,
+   173.04,
+   57.24,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionRow2",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   230.4,
+   173.04,
+   308.64,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Drive letterRow3",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   105.48,
+   158.4,
+   64.92,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Size GBRow3",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   171.72,
+   158.4,
+   57.24,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionRow3",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   230.4,
+   158.4,
+   308.64,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Drive letterRow4",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   105.48,
+   143.76,
+   64.92,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Size GBRow4",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   171.72,
+   143.76,
+   57.24,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionRow4",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   230.4,
+   143.76,
+   308.64,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Drive letterRow5",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   105.48,
+   129.12,
+   64.92,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Size GBRow5",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   171.72,
+   129.12,
+   57.24,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionRow5",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   230.4,
+   129.12,
+   308.64,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Drive letterRow6",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   105.48,
+   114.6,
+   64.92,
+   12.72
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Size GBRow6",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   171.72,
+   114.6,
+   57.24,
+   12.72
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionRow6",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   230.4,
+   114.6,
+   308.64,
+   12.72
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Drive letterRow7",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   105.48,
+   99.96,
+   64.92,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Size GBRow7",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   171.72,
+   99.96,
+   57.24,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionRow7",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   230.4,
+   99.96,
+   308.64,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Drive letterRow8",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   105.48,
+   85.32,
+   64.92,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Size GBRow8",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   171.72,
+   85.32,
+   57.24,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DescriptionRow8",
+  "type": "text",
+  "page": 7,
+  "rect": [
+   230.4,
+   85.32,
+   308.64,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Comments_2",
+  "type": "text",
+  "page": 8,
+  "rect": [
+   73.68,
+   537.84,
+   450.6,
+   162.72
+  ],
+  "multiline": true
+ },
+ {
+  "name": "Network information",
+  "type": "text",
+  "page": 8,
+  "rect": [
+   161.16,
+   429.84,
+   291,
+   12.96
+  ],
+  "multiline": false
+ },
+ {
+  "name": "ValueIPV4 address of server",
+  "type": "text",
+  "page": 8,
+  "rect": [
+   196.56,
+   354.12,
+   324.12,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "ValueSubnet mask",
+  "type": "text",
+  "page": 8,
+  "rect": [
+   196.56,
+   339.48,
+   324.12,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "ValueGateway",
+  "type": "text",
+  "page": 8,
+  "rect": [
+   196.56,
+   324.84,
+   324.12,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "ValueDNS servers",
+  "type": "text",
+  "page": 8,
+  "rect": [
+   196.56,
+   310.2,
+   324.12,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Comments_3",
+  "type": "text",
+  "page": 8,
+  "rect": [
+   73.68,
+   114.6,
+   457.68,
+   162.6
+  ],
+  "multiline": true
+ },
+ {
+  "name": "undefined_2",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   478.8,
+   446.4,
+   68.88,
+   15
+  ],
+  "multiline": false
+ },
+ {
+  "name": "undefined_3",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   478.8,
+   420.6,
+   68.88,
+   15
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Empower version",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   304.56,
+   405.12,
+   151.92,
+   15
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Empower installation type",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   304.56,
+   389.52,
+   151.92,
+   15
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Empower Enterprise or Workgroup base software",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   304.56,
+   338.4,
+   151.92,
+   12
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Agilent GC control option",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   304.56,
+   322.68,
+   151.92,
+   15
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Agilent LC control option",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   304.56,
+   307.08,
+   151.92,
+   15
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Empower system suitability option",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   304.56,
+   291.48,
+   151.92,
+   15
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Empower SystemsQT™ for software",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   304.56,
+   275.88,
+   151.92,
+   15
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Empower SystemsQT for systems",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   304.56,
+   260.28,
+   151.92,
+   15
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Empower Enterprise Data Manager 2 option",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   304.56,
+   244.56,
+   151.92,
+   15
+  ],
+  "multiline": false
+ },
+ {
+  "name": "List other activated options or write None in the following field",
+  "type": "text",
+  "page": 9,
+  "rect": [
+   104.88,
+   169.44,
+   354.6,
+   55.32
+  ],
+  "multiline": true
+ },
+ {
+  "name": "Yes No or NA",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   645.48,
+   69.12,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "YesNo or NA",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   462,
+   569.4,
+   66.12,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "In the Summary section at the end of the printout initial either the Pass or Fail line",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   326.04,
+   69.12,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Insert the printout at the end of this IQ workbook after the performer and reviewer",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   313.92,
+   69.12,
+   11.52
+  ],
+  "multiline": false
+ },
+ {
+  "name": "1_3",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   201.96,
+   143.76,
+   236.04,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "2_3",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   201.96,
+   128.88,
+   236.04,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "3_3",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   201.96,
+   114,
+   236.04,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "YesNo",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   398.04,
+   69.12,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "1_4",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   361.44,
+   69.12,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "2_4",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   349.44,
+   69.12,
+   11.4
+  ],
+  "multiline": false
+ },
+ {
+  "name": "YesNo 1",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   255,
+   69.12,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "YesNo 2",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   240.12,
+   69.12,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "YesNo 3",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   225.24,
+   69.12,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "YesNo 4",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   210.36,
+   69.12,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "YesNo 5",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   195.36,
+   69.12,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Yes No or NA_2",
+  "type": "text",
+  "page": 10,
+  "rect": [
+   460.56,
+   158.64,
+   69.12,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Backup typeRow1",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   105.36,
+   616.44,
+   71.76,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Includes raw data files YesNoRow1",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   178.44,
+   616.44,
+   114.84,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Day and time of backupRow1",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   294.72,
+   616.44,
+   110.52,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DestinationRow1",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   406.68,
+   616.44,
+   132,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Backup typeRow2",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   105.36,
+   601.8,
+   71.76,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Includes raw data files YesNoRow2",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   178.44,
+   601.8,
+   114.84,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Day and time of backupRow2",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   294.72,
+   601.8,
+   110.52,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DestinationRow2",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   406.68,
+   601.8,
+   132,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Backup typeRow3",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   105.36,
+   587.16,
+   71.76,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Includes raw data files YesNoRow3",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   178.44,
+   587.16,
+   114.84,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Day and time of backupRow3",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   294.72,
+   587.16,
+   110.52,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "DestinationRow3",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   406.68,
+   587.16,
+   132,
+   12.84
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Yes No or NA 1_2",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   478.8,
+   511.92,
+   68.88,
+   11.64
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Yes No or NA 2_2",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   478.8,
+   496.92,
+   68.88,
+   12.96
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Comments_4",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   91.44,
+   252.24,
+   456.48,
+   194.04
+  ],
+  "multiline": true
+ },
+ {
+  "name": "Date_3",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   368.76,
+   175.2,
+   84.36,
+   12.96
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Date_4",
+  "type": "text",
+  "page": 11,
+  "rect": [
+   368.76,
+   120.72,
+   84.36,
+   12.96
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Signature11",
+  "type": "other",
+  "page": 11,
+  "rect": [
+   168,
+   119.44,
+   150,
+   17.1
+  ],
+  "multiline": false
+ },
+ {
+  "name": "Signature12",
+  "type": "other",
+  "page": 11,
+  "rect": [
+   168,
+   174.06,
+   150,
+   16.28
+  ],
+  "multiline": false
+ }
+]

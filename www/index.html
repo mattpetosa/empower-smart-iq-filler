@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Empower Smart IQ Filler</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="wrap">
+  <header>
+    <h1><img class="logo" src="logo.svg" alt="" width="44" height="44">Empower Smart IQ Filler</h1>
+    <p class="sub">Fill the Waters <strong>Empower Enterprise or Workgroup Servers IQ</strong> workbook (715002791) from the files you already collect. Review every value, then download the filled PDF. <strong>Your files never leave this browser.</strong></p>
+  </header>
+
+  <section class="step">
+    <h2><span class="num">1</span> IQ workbook</h2>
+    <div id="iq-drop" class="drop" tabindex="0" role="button" aria-label="Choose the IQ workbook PDF">
+      <input id="iq-file" type="file" accept="application/pdf,.pdf" hidden>
+      <div class="icon">📘</div>
+      <div><strong>Drop the Servers IQ PDF here</strong> or <span class="link">browse</span></div>
+      <div class="hint">Blank Waters workbook or your own pre-filled copy</div>
+    </div>
+    <div id="iq-status" class="status" hidden></div>
+  </section>
+
+  <section class="step">
+    <h2><span class="num">2</span> System files</h2>
+    <div id="src-drop" class="drop" tabindex="0" role="button" aria-label="Choose system files">
+      <input id="src-file" type="file" multiple hidden>
+      <div class="icon">🗂️</div>
+      <div><strong>Drop system files here</strong> (any order) or <span class="link">browse</span></div>
+      <div class="hint">ipconfig /all · msinfo32 .nfo or .txt · Empower.log · Checksum.txt · tnsnames.ora · Licensing Wizard PDF</div>
+    </div>
+    <ul id="src-list" class="chips"></ul>
+  </section>
+
+  <p id="error" class="error" hidden></p>
+  <ul id="warnings" class="warnings" hidden></ul>
+
+  <section id="review" hidden>
+    <div class="bar">
+      <div>
+        <div class="install">Review</div>
+        <div class="meta">Every value can be edited. Highlighted rows changed a value already in your PDF. Signatures, initials and dates are left for you.</div>
+      </div>
+      <div class="actions">
+        <button id="download" class="btn primary" type="button">Download filled PDF</button>
+        <button id="reset" class="btn" type="button">Start over</button>
+      </div>
+    </div>
+    <div id="groups"></div>
+  </section>
+
+  <footer class="credit">Created by <a href="https://github.com/mattpetosa" target="_blank" rel="noopener">Matt Petosa</a> · Runs entirely in your browser · Version <span id="version"></span></footer>
+</main>
+<script src="vendor/eslc/core.js"></script>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

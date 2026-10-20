@@ -1,0 +1,30 @@
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LABSVR01
+   Primary Dns Suffix  . . . . . . . : example.com
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : example.com
+                                       lab.example.com
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : example.com
+   Description . . . . . . . . . . . : vmxnet3 Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-50-56-00-00-01
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::1234:5678:9abc:def0%5(Preferred)
+   IPv4 Address. . . . . . . . . . . : 10.0.0.11(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%5
+                                       10.0.0.1
+   DNS Servers . . . . . . . . . . . : 10.0.2.11
+                                       10.0.2.12
+                                       10.0.2.13
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.example.com:
+
+   Media State . . . . . . . . . . . : Media disconnected

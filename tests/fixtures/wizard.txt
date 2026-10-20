@@ -1,0 +1,12 @@
+Waters Licensing Wizard : LABSVR01
+Date Printed: 10/14/2026
+The following licenses are installed:
+[Empower 3 Enterprise Base License] User licenses: 5 Serial No: AAAAA11111
+[Empower 3 Named User License Pack] User licenses: 5 Serial No: AAAAA11111
+[Empower 3 System Control License Pack] System licenses: 2 Serial No: EEEEE55555
+[Empower 3 System Suitability] Serial No: CCCCC33333
+[Empower 3 Software SQT License] Serial No: FFFFF66666
+[Empower 3 SystemsQT License] Serial No: GGGGG77777
+[Empower 3 Agilent GC] Instrument control licenses: 1 Serial No: BBBBB22222
+[Empower 3 GPC Option] Serial No: DDDDD44444
+[Empower 3 Enterprise Data Manager 2] Serial No: HHHHH88888

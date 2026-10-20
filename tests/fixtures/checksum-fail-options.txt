@@ -1,0 +1,44 @@
+*****************************************************************
+
+Installation Information.
+
+Current Date and Time - Wednesday, October 14, 2026 16:55:06
+Computer Name - Labsvr01
+Installation Type - Workgroup Server
+Software Version - Empower 3.10.0.1
+Registered User - Example Pharma
+Company Name - Example Pharma
+Support Plan ID - EM0EX00000
+Operating System Name - Windows Server 2022 Standard
+
+Option Properly Installed - Enterprise Base Package          Serial Number - AAAAA11111
+Option Properly Installed - 5 Named User License(s)          Serial Number - AAAAA11111
+Option Properly Installed - Agilent GC Control               Serial Number - BBBBB22222
+Option Properly Installed - System Suitability               Serial Number - CCCCC33333
+Option Properly Installed - GPC/SEC Option                   Serial Number - DDDDD44444
+
+*****************************************************************
+Waters File Verification Utility - V 4.02
+
+Checksum values for files in e:\empower\bin\ directory:
+2 files to check:
+
+  1: ACDWatX.ocx              OK    - Size: 1332736, CRC: 56444
+  2: AcqDataModels.dll        OK    - Size:  274392, CRC: 26552
+
+   2 files,   1607128 bytes total
+   0 file(s) found changed
+   0 file(s) missing
+*****************************************************************
+Checksum values for files in e:\empower\script\ directory:
+1 files to check:
+
+  1: verify.bat               OK    - Size:    1200, CRC: 11111
+
+   1 files,      1200 bytes total
+   1 file(s) found changed
+   0 file(s) missing
+*****************************************************************
+Waters Installation Qualification - Summary
+
+No Installation changes were detected.

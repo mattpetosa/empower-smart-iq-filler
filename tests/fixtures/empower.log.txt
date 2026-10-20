@@ -1,0 +1,23 @@
+================================================================================================================
+=== Logging started: 10/14/2026 11:50:18 AM - Empower Deployment Manager ===
+	 ******* Machine Name: LABSVR01
+	 ******* Windows Edition: Microsoft Windows Server 2022 Standard 
+	 ******* OS Architecture: 64-bit Edition
+	 ******* User Name: installer
+	 ******* Processor: Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz
+	 ******* Total Physical Memory: 24.00 GB
+	 ******* Requested Install Type: Server with Client
+	 ******* Installing Product: Empower Server
+	 ******* Installing Software Version: 3.10.0
+[11:50:26:837 AM]: Full installation initiated
+================================================================================================================
+=== Logging started: 10/14/2026 3:39:05 PM - Empower Deployment Manager ===
+	 ******* Machine Name: LABSVR01
+	 ******* Installing Software Version: 3.10.0
+[04:46:43:242 PM]: Full installation completed.
+=== Logging stopped: 10/14/2026 4:46:43 PM ===
+
+=== Logging Started: 10-14-2026 16:46:55 - Empower 3.10.0.1 ===
+******* Product: Empower 3.10.0.1
+[16:47:09]: The setup has successfully completed installing Empower 3.10.0.1 on this computer.
+=== Logging Stopped: 10-14-2026 16:47:09 ===
