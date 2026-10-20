@@ -7,7 +7,8 @@ WEBROOT=/var/www/iq.mhpwebserver.com
 cd "$REPO"
 npm test
 [[ -f www/index.html && -f www/js/app.js ]] || { echo "REFUSING: www/ does not look like the site" >&2; exit 1; }
-STAMP=$(git rev-parse --short HEAD)$([[ -n "$(git status --porcelain)" ]] && echo -dirty)
+# `|| true`: on a clean tree the test is false, and under set -e that would end the script.
+STAMP=$(git rev-parse --short HEAD)$([[ -n "$(git status --porcelain)" ]] && echo -dirty || true)
 TMP=$(mktemp -d)
 cp -a www/. "$TMP/"
 # mktemp -d is mode 700 and rsync -a copies that onto the webroot: open it up for nginx.
