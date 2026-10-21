@@ -13,7 +13,7 @@ TMP=$(mktemp -d)
 cp -a www/. "$TMP/"
 # mktemp -d is mode 700 and cp -a carries that to the webroot: open it up for nginx.
 chmod -R u=rwX,go=rX "$TMP"
-sed -i "s#href=\"style.css\"#href=\"style.css?v=$STAMP\"#; s#src=\"js/app.js\"#src=\"js/app.js?v=$STAMP\"#" "$TMP/index.html"
+sed -i "s#href=\"style.css\"#href=\"style.css?v=$STAMP\"#; s#src=\"js/app.js\"#src=\"js/app.js?v=$STAMP\"#; s#href=\"favicon.svg\"#href=\"favicon.svg?v=$STAMP\"#; s#src=\"logo.svg\"#src=\"logo.svg?v=$STAMP\"#" "$TMP/index.html"
 # No rsync on this box: build the new tree beside the webroot, then swap it in,
 # so files removed from www/ disappear from the site too.
 sudo rm -rf "$WEBROOT.new" "$WEBROOT.old"
