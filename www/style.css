@@ -51,14 +51,14 @@ summary{cursor:pointer}
 .badge{display:inline-block;vertical-align:middle;margin-left:8px;padding:2px 8px;border-radius:999px;background:var(--panel);border:1px solid var(--line);color:var(--muted);font-size:12px;font-weight:600;letter-spacing:.04em;text-transform:uppercase}
 .step{margin-top:28px}
 .step h2{font-size:16px;margin:0 0 10px;display:flex;align-items:center;gap:8px}
-.step .num{display:inline-grid;place-items:center;width:22px;height:22px;border-radius:50%;background:linear-gradient(135deg,#FFFFFF,#D4D4D8);color:#111;font-size:13px}
+.step .num{display:inline-grid;place-items:center;width:22px;height:22px;border-radius:50%;background:linear-gradient(135deg,#CBD5E1,#94A3B8);color:#111;font-size:13px}
 .drop{padding:28px 20px}
 .status{margin-top:10px;color:var(--ok);font-size:14px}
 .status.bad{color:var(--err)}
 .chips{list-style:none;padding:0;margin:12px 0 0;display:flex;flex-wrap:wrap;gap:8px}
 .chips li{background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:4px 6px 4px 12px;font-size:13px;display:flex;align-items:center;gap:8px}
 .chips li.unknown{border-color:var(--err);color:var(--err)}
-.chips .kind{color:#D4D4D8;font-weight:600}
+.chips .kind{color:#94A3B8;font-weight:600}
 .chips button{background:none;border:0;color:var(--muted);cursor:pointer;font-size:15px;padding:0 4px}
 .warnings{list-style:none;padding:12px 16px;margin:16px 0 0;border:1px solid #9e6a03;background:#2d2106;border-radius:8px;color:#f2cc60;font-size:14px}
 .group{margin-top:18px;border:1px solid var(--line);border-radius:8px;overflow:hidden}
